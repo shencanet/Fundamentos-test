@@ -148,16 +148,16 @@ Cuándo estamos refiriéndonos a “una caja” es la manera de observar el cont
 
 Caja Negra
 
-• Participación de Equivalencia. Esos grupos de datos que pueden entrar para casos exitosos o para casos no exitosos.
+• Participación de Equivalencia.  Grupos de datos para casos exitosos y fallos
 
 • Valores Límite. Se puede tener usado un rango de valores.
 • Tabla de Decisiones. Va enfocada si tuviéramos valores seleccionables.
-• Transición de Estados. Cómo el componente se comporta.
+• Transición de Estados. Cómo el componente se comporta que dependa de la seleccion anterior para mostrar datos seleccionas provincia para mostrar ciudad.
 • Casos de Uso. Realizar escenarios que pueda realizar el usuario.
 
 Caja Blanca
 
-• Cobertura de declaraciones. Las declaraciones son todo aquello que tienes dentro del código y estás asumiendo que es lo que se pide que haga, al decir cobertura es, dependiendo el tipo de software, los requerimientos, el objetivo, se establece un porcentaje de cobertura, esto significa que, cada línea de código debería ser ejecutada al menos una vez, cada sentencia debería de ejecutarse alguna vez.
+• Cobertura de declaraciones. Las declaraciones son todo aquello que tienes dentro del código y estás asumiendo que es lo que se pide que haga, al decir cobertura es, dependiendo el tipo de software, los requerimientos, el objetivo, se establece un porcentaje de cobertura, esto significa que, cada línea de código debería ser ejecutada al menos una vez, cada sentencia debería de ejecutarse alguna vez. eliminar código inútil o problemático
 • Cobertura de código. Que se evite tener código obsoleto.
 
 Caja Gris
