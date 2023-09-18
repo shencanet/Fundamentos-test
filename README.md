@@ -3,9 +3,9 @@
 **Contenido**
 
 
-[Clase 0 Caja Blanca Caja Negra ]#Clase-0-Caja-Blanca])
+[Clase 0 Caja Blanca Caja Negra](#Clase-0-Caja-Blanca)
 
-[Clase 1 Introducción]#Clase-1-Introducción])
+[Clase 1 Introducción](#Clase-1-Introducción)
 
 [Clase 2 ¿Qué son las pruebas y por qué deberíamos hacerlas?](#Clase-2-¿Qué-son-las-pruebas-y-por-qué-deberíamos-hacerlas?])
 
