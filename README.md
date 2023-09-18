@@ -142,6 +142,32 @@
 
 [Clase 28 Gherkin](#Clase-28-Gherkin)
 
+Caja Blanca, Gris y Negra
+
+Cuándo estamos refiriéndonos a “una caja” es la manera de observar el contenido del Software, ya sea que no tenemos noción más que la interfaz con la que estamos trabajando, caja negra. Cuándo podemos ver todo el contenido como una caja de cristal, caja blanca. Las integraciones, los datos cómo fluyen de un lugar a otro, dónde no conozco el código ni veo interfaz pero puedo ver cómo fluye la información a través de las redes, caja gris.
+
+Caja Negra
+
+• Participación de Equivalencia. Esos grupos de datos que pueden entrar para casos exitosos o para casos no exitosos.
+
+• Valores Límite. Se puede tener usado un rango de valores.
+• Tabla de Decisiones. Va enfocada si tuviéramos valores seleccionables.
+• Transición de Estados. Cómo el componente se comporta.
+• Casos de Uso. Realizar escenarios que pueda realizar el usuario.
+
+Caja Blanca
+
+• Cobertura de declaraciones. Las declaraciones son todo aquello que tienes dentro del código y estás asumiendo que es lo que se pide que haga, al decir cobertura es, dependiendo el tipo de software, los requerimientos, el objetivo, se establece un porcentaje de cobertura, esto significa que, cada línea de código debería ser ejecutada al menos una vez, cada sentencia debería de ejecutarse alguna vez.
+• Cobertura de código. Que se evite tener código obsoleto.
+
+Caja Gris
+
+• Casos de Negocio. Es necesario conocer cómo el usuario interactúa, qué datos ingresa y qué datos van a ser retornados.
+• Pruebas End to End. Cómo se están agregando datos y aún no queremos ver datos de salida.
+• Pruebas de integración. Ver cómo viajan esos datos, la respuesta y la comunicación de cómo fluyen los datos entre diferentes servicios.
+
+
+
 ## Clase 1 Introducción
 
 En este curso veremos diferentes formas, tips y estrategias de realizar pruebas de software. Todas las técnicas te ayudarán a mejorar la calidad de tu software.
