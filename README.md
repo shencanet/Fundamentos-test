@@ -2,7 +2,10 @@
 
 **Contenido**
 
-[Clase 1 Introducción](#Clase-1-Introducción])
+
+
+
+[Clase 1 Introducción](#Clase-0-Caja-Blanca,-Gris-y-Negra])
 
 [Clase 2 ¿Qué son las pruebas y por qué deberíamos hacerlas?](#Clase-2-¿Qué-son-las-pruebas-y-por-qué-deberíamos-hacerlas?])
 
@@ -142,7 +145,8 @@
 
 [Clase 28 Gherkin](#Clase-28-Gherkin)
 
-Caja Blanca, Gris y Negra
+## Clase 0 Caja Blanca, Gris y Negra
+
 
 Cuándo estamos refiriéndonos a “una caja” es la manera de observar el contenido del Software, ya sea que no tenemos noción más que la interfaz con la que estamos trabajando, caja negra. Cuándo podemos ver todo el contenido como una caja de cristal, caja blanca. Las integraciones, los datos cómo fluyen de un lugar a otro, dónde no conozco el código ni veo interfaz pero puedo ver cómo fluye la información a través de las redes, caja gris.
 
